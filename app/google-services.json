@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749661164983",
+    "firebase_url": "https://turtle-d448a.firebaseio.com",
+    "project_id": "turtle-d448a",
+    "storage_bucket": "turtle-d448a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749661164983:android:54e1283773b839dd",
+        "android_client_info": {
+          "package_name": "com.ngpmbewetu.call_spyware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749661164983-jft0hr649uj7ghfr8q8d05apjbpi7mnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngpmbewetu.call_spyware",
+            "certificate_hash": "0a2727a1a5cd598e0d02db2d5ec56fcc761db4ea"
+          }
+        },
+        {
+          "client_id": "749661164983-pi012ude42g4uo5q7ilf0cpi5e8sh0mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTJwScHFhn2N38AlPNIZRahom3VQwpbII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749661164983-pi012ude42g4uo5q7ilf0cpi5e8sh0mh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
